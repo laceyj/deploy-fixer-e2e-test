@@ -1,0 +1,11 @@
+{
+  "name": "deploy-fixer-e2e-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
